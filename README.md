@@ -35,7 +35,7 @@
   
 # 使用步骤
 ## 1. 下载
-在Github地址下载Fm-Client，地址：[HttpClient](https://github.com/Chenbin1996/Fm-Client)，根据如下配置说明修改后，打包成jar包引入项目使用
+在Github地址下载Fm-Client，地址：[Fm-Client](https://github.com/Chenbin1996/Fm-Client)，根据如下配置说明修改后，打包成jar包引入项目使用
 
 ## 2. 添加并修改配置文件
 在resources目录下新建`fm-config-default.properties`文件，内容如下：
